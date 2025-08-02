@@ -1,2 +1,2 @@
 # port-scanner
-Simple python tcp port scanner. It scans for open or closed ports.
+Simple python tcp port scanner. It scans for open or closed ports and running services.
